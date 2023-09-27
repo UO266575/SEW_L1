@@ -35,10 +35,13 @@
     <h2>Listas</h2>
     <h3>Aficiones:</h3>
     <ul>
-        <li>Baloncesto.</li>
-        <li>Gimnasio.</li>
+        <li>Practicar deporte.</li>
+        <ul>
+            <li>Baloncesto.</li>
+            <li>Gimnasio.</li>
+            <li>Senderismo.</li>
+        </ul>
         <li>Carpintería.</li>
-        <li>Senderismo.</li>
         <li>Fórmula 1.</li>
     </ul>
     <h2>Artistas musicales:</h2>
@@ -77,53 +80,61 @@
         <tbody>
             <tr>
                 <td>2022</td>
-                <td>16.5</td>
+                <td>14.0</td>
             </tr>
             <tr>
                 <td>2021</td>
-                <td>16.3</td>
+                <td>13.0</td>
             </tr>
             <tr>
                 <td>2020</td>
-                <td>16.0</td>
-            </tr>
-            <tr>
-                <td>2019</td>
-                <td>16.2</td>
-            </tr>
-            <tr>
-                <td>2018</td>
-                <td>15.5</td>
-            </tr>
-            <tr>
-                <td>2017</td>
-                <td>15.7</td>
-            </tr>
-            <tr>
-                <td>2016</td>
-                <td>15.2</td>
-            </tr>
-            <tr>
-                <td>2015</td>
-                <td>14.6</td>
-            </tr>
-            <tr>
-                <td>2014</td>
                 <td>13.8</td>
             </tr>
             <tr>
+                <td>2019</td>
+                <td>13.2</td>
+            </tr>
+            <tr>
+                <td>2018</td>
+                <td>13.1</td>
+            </tr>
+            <tr>
+                <td>2017</td>
+                <td>13.3</td>
+            </tr>
+            <tr>
+                <td>2016</td>
+                <td>13.2</td>
+            </tr>
+            <tr>
+                <td>2015</td>
+                <td>13.4</td>
+            </tr>
+            <tr>
+                <td>2014</td>
+                <td>13.5</td>
+            </tr>
+            <tr>
                 <td>2013</td>
-                <td>12.6</td>
+                <td>12.3</td>
             </tr>
         </tbody>
     </table>
 
-    <a href="https://open.spotify.com/intl-es/artist/0Repe2EiNjaFAFIukrroUM?si=NzQneM7FRtiz8aZ0wNIn6A">Ren Spotify</a>
-    <a href="https://es.wikipedia.org/wiki/Jungle_(banda)">Jungle Wikipedia</a>
+    <a href="https://open.spotify.com/intl-es/artist/0Repe2EiNjaFAFIukrroUM?si=NzQneM7FRtiz8aZ0wNIn6A"
+        title="Ren Spotify">Ren Spotify</a>
+    <a href="https://es.wikipedia.org/wiki/Jungle_(banda)" title="Jungle Wikipedia">Jungle Wikipedia</a>
 
-    <img src="./multimedia/img/images.jpeg" alt="Fernando Alonso">
-    <video src="./multimedia/video/elnano.mp4" controls preload="auto"></video>
-    <audio src="./multimedia/audio/33.mp3" controls> </audio>
+
+    <video src="./multimedia/video/elnano.mp4" title="Video sobre Fernando Alonso" controls preload="auto"></video>
+    <audio src="./multimedia/audio/33.mp3" title="Audio de Fernando Alonso" controls> </audio>
+
+    <picture>
+        <source media="(max-width: 465px)" srcset="./multimedia/img/fotoPersonalPequeña.jpg">
+        <source media="(max-width: 799px)" srcset="./multimedia/img/fotoPersonalMediana.jpg">
+        <source media="(min-width: 800px)" srcset="./multimedia/img/fotoPersonal.jpg">
+        <img src="./multimedia/img/fotoPersonal.jpeg" alt="Foto personal">
+    </picture>
 </body>
 
 </html>
