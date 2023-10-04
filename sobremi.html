@@ -25,13 +25,16 @@
         </nav>
         <h1>Escritorio Virtual</h1>
     </header>
-    <main>
+        <picture>
+            <source media="(max-width: 465px)" srcset="./multimedia/img/fotoPersonalPequeña.jpg">
+            <source media="(max-width: 799px)" srcset="./multimedia/img/fotoPersonalMediana.jpg">
+            <source media="(min-width: 800px)" srcset="./multimedia/img/fotoPersonal.jpg">
+            <img src="./multimedia/img/fotoPersonal.jpeg" alt="Foto personal">
+        </picture>
         <h2>Sobre mí</h2>
         <p>José Antonio Pérez Miguel - UO266575</p>
         <p>Soy un estudiante de la Universidad de Oviedo, estudio Ingeniería Informática del Software y estoy cursando
             la asignatura de Software y estándares para la Web.</p>
-    </main>
-
     <section>
         <h3>Aficiones:</h3>
         <ul>
@@ -44,7 +47,19 @@
             <li>Carpintería.</li>
             <li>Fórmula 1.</li>
         </ul>
+        <p>Aquí se puede ver un vídeo y un audio sobre Fernando Alonso:</p>
 
+        <video title="Video sobre Fernando Alonso" controls="" preload="auto">
+            <source src="./multimedia/video/elnano.mp4" type="video/mp4">
+            <source src="./multimedia/video/elnano.webm" type="video/webm">
+        </video>
+
+        <audio title="Audio de Fernando Alonso" controls="">
+            <source src="./multimedia/audio/33.mp3" type="audio/mpeg">
+            <source src="./multimedia/audio/33.wav" type="audio/wav">
+        </audio>
+    </section>
+    <section>
         <h3>Artistas musicales favoritos:</h3>
         <ol>
             <li>Ren.</li>
@@ -53,7 +68,12 @@
             <li>Half alive.</li>
             <li>Spencer Sutherland.</li>
         </ol>
-
+        <p>Aquí puede encontrar enlaces interesantes sobre los dos primeros artistas:</p>
+        <a href="https://open.spotify.com/intl-es/artist/0Repe2EiNjaFAFIukrroUM?si=NzQneM7FRtiz8aZ0wNIn6A"
+            title="Ren Spotify">Ren Spotify</a>
+        <a href="https://es.wikipedia.org/wiki/Jungle_(banda)" title="Jungle Wikipedia">Jungle Wikipedia</a>
+    </section>
+    <section>
         <h3>Asignaturas favoritas:</h3>
         <dl>
             <dt>SDI</dt>
@@ -73,81 +93,56 @@
         </dl>
     </section>
 
-    <table>
-        <caption>Hisórico temperaturas medias anuales de Oviedo</caption>
-        <tbody>
-            <tr>
-                <th scope="col" id="año">Año</th>
-                <th scope="col" id="temperatura">Temperatura Media (°C)</th>
-            </tr>
-            <tr>
-                <th scope="row" id="2022">2022</td>
-                <td headers="2022 temperatura">14.0</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2021">2021</td>
-                <td headers="2021 temperatura">13.0</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2020">2020</td>
-                <td headers="2020 temperatura">13.8</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2019">2019</td>
-                <td headers="2019 temperatura">13.2</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2018">2018</td>
-                <td headers="2018 temperatura">13.1</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2017">2017</td>
-                <td headers="2017 temperatura">13.3</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2016">2016</td>
-                <td headers="2016 temperatura">13.2</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2015">2015</td>
-                <td headers="2015 temperatura">13.4</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2014">2014</td>
-                <td headers="2014 temperatura">13.5</td>
-            </tr>
-            <tr>
-                <th scope="row" id="2013">2013</td>
-                <td headers="2013 temperatura">12.3</td>
-            </tr>
-        </tbody>
-    </table>
-
-
-
-    <picture>
-        <source media="(max-width: 465px)" srcset="./multimedia/img/fotoPersonalPequeña.jpg">
-        <source media="(max-width: 799px)" srcset="./multimedia/img/fotoPersonalMediana.jpg">
-        <source media="(min-width: 800px)" srcset="./multimedia/img/fotoPersonal.jpg">
-        <img src="./multimedia/img/fotoPersonal.jpeg" alt="Foto personal">
-    </picture>
-
     <aside>
-        <a href="https://open.spotify.com/intl-es/artist/0Repe2EiNjaFAFIukrroUM?si=NzQneM7FRtiz8aZ0wNIn6A"
-            title="Ren Spotify">Ren Spotify</a>
-        <a href="https://es.wikipedia.org/wiki/Jungle_(banda)" title="Jungle Wikipedia">Jungle Wikipedia</a>
-
-        <audio src="" title="Audio de Fernando Alonso" controls> </audio>
-
-        <video title="Video sobre Fernando Alonso" controls="" preload="auto">
-            <source src="./multimedia/video/elnano.mp4" type="video/mp4">
-            <source src="./multimedia/video/elnano.webm" type="video/webm">
-        </video>
-
-        <audio title="Audio de Fernando Alonso" controls="">
-            <source src="./multimedia/audio/33.mp3" type="audio/mpeg">
-            <source src="./multimedia/audio/33.wav" type="audio/wav">
-        </audio>
+        <table>
+            <caption>Hisórico temperaturas medias anuales de Oviedo</caption>
+            <tbody>
+                <tr>
+                    <th scope="col" id="año">Año</th>
+                    <th scope="col" id="temperatura">Temperatura Media (°C)</th>
+                </tr>
+                <tr>
+                    <th scope="row" id="2022">2022</td>
+                    <td headers="2022 temperatura">14.0</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2021">2021</td>
+                    <td headers="2021 temperatura">13.0</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2020">2020</td>
+                    <td headers="2020 temperatura">13.8</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2019">2019</td>
+                    <td headers="2019 temperatura">13.2</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2018">2018</td>
+                    <td headers="2018 temperatura">13.1</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2017">2017</td>
+                    <td headers="2017 temperatura">13.3</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2016">2016</td>
+                    <td headers="2016 temperatura">13.2</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2015">2015</td>
+                    <td headers="2015 temperatura">13.4</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2014">2014</td>
+                    <td headers="2014 temperatura">13.5</td>
+                </tr>
+                <tr>
+                    <th scope="row" id="2013">2013</td>
+                    <td headers="2013 temperatura">12.3</td>
+                </tr>
+            </tbody>
+        </table>
     </aside>
 </body>
 
