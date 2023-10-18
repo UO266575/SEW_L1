@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rutas SYSTEM "rutas.dtd">
+<rutas>
+  <ruta>
+    <nombre>Ruta del archipiélago de Bijagós</nombre>
+    <tipo>Paisajística</tipo>
+    <transporte>Barco</transporte>
+    <fecha_inicio>12/01/2024</fecha_inicio>
+    <hora_inicio>9:00 AM</hora_inicio>
+    <duracion>10 horas</duracion>
+    <agencia>Aventuras Bijagós</agencia>
+    <descripcion>Descubre la belleza del archipiélago de Bijagós en Guinea-Bissau en esta emocionante ruta. Explora sus islas, playas y la vida silvestre única de la región.</descripcion>
+    <personas_adecuadas>Aventureros y amantes de la naturaleza.</personas_adecuadas>
+    <lugar_inicio>Praia de Suru</lugar_inicio>
+    <direccion_inicio>Ilha Caravela</direccion_inicio>
+    <coordenadas_inicio>
+      <longitud>-15.805860227540618</longitud>
+      <latitud>11.743755936878673</latitud>
+      <altitud unidades="metros">0.29</altitud>
+    </coordenadas_inicio>
+    <referencias_bibliografia>
+      <referencia>https://kalmasoul.com/en/tourism/beaches/suru-beach/</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Islas_Bijag%C3%B3s</referencia>
+      <referencia>https://www.elmundo.es/viajes/africa/2022/03/05/6219d30a21efa017678b4587.html</referencia>
+    </referencias_bibliografia>
+    <recomendacion>9</recomendacion>
+    <hitos>
+      <hito>
+        <nombre_hito>Ilha Caravela</nombre_hito>
+        <descripcion_hito>Ilha Caravela es una hermosa isla del archipiélago de Bijagós. Su paisaje incluye playas de arena blanca, exuberante vegetación y aguas cristalinas. Es un lugar perfecto para relajarse, nadar y disfrutar de la tranquilidad de la naturaleza.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-16.31866348912168</longitud_hito>
+          <latitud_hito>11.555948759608924</latitud_hito>
+          <altitud_hito>1</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">59</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>./multimedia/img/caravela1.jpg</fotografia>
+          <fotografia>./multimedia/img/caravela2.jpg</fotografia>
+        </galeria_fotografias>
+      </hito>
+
+      <hito>
+        <nombre_hito>Ilha Bubaque</nombre_hito>
+        <descripcion_hito>Ilha Bubaque es la isla más grande del archipiélago de Bijagós. Ofrece una gran diversidad de paisajes, desde playas vírgenes hasta manglares. También es un centro cultural y un lugar ideal para interactuar con la comunidad local.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-16.14522500351254</longitud_hito>
+          <latitud_hito>11.171897463481457</latitud_hito>
+          <altitud_hito>3</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">55</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>Fotografía 1.jpg</fotografia>
+        </galeria_fotografias>
+        <galeria_videos>
+          <video>./multimedia/video/bubaque1.mp4</video>
+        </galeria_videos>
+      </hito>
+
+      <hito>
+        <nombre_hito>Ilha das Galinhas</nombre_hito>
+        <descripcion_hito>Ilha das Galinhas es conocida por albergar la antigua prisión portuguesa y la casa del gobernador, ofreciendo una fascinante visión de la historia colonial de la región. Además, podrás disfrutar de sus hermosas playas y explorar los exuberantes bosques tropicales.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-15.814017175053944</longitud_hito>
+          <latitud_hito>11.302253926153416</latitud_hito>
+          <altitud_hito>11</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">47</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>./multimedia/img/galinhas1.jpg</fotografia>
+          <fotografia>./multimedia/img/galinhas2.jpg</fotografia>
+          <fotografia>./multimedia/img/galinhas3.jpg</fotografia>
+        </galeria_fotografias>
+      </hito>
+    </hitos>
+  </ruta>
+
+  <ruta>
+    <nombre>Ruta del archipiélago de Bijagós</nombre>
+    <tipo>Paisajística</tipo>
+    <transporte>Barco</transporte>
+    <fecha_inicio>12/01/2024</fecha_inicio>
+    <hora_inicio>9:00 AM</hora_inicio>
+    <duracion>10 horas</duracion>
+    <agencia>Aventuras Bijagós</agencia>
+    <descripcion>Descubre la belleza del archipiélago de Bijagós en Guinea-Bissau en esta emocionante ruta. Explora sus islas, playas y la vida silvestre única de la región.</descripcion>
+    <personas_adecuadas>Aventureros y amantes de la naturaleza.</personas_adecuadas>
+    <lugar_inicio>Praia de Suru</lugar_inicio>
+    <direccion_inicio>Ilha Caravela</direccion_inicio>
+    <coordenadas_inicio>
+      <longitud>-15.805860227540618</longitud>
+      <latitud>11.743755936878673</latitud>
+      <altitud unidades="metros">0.29</altitud>
+    </coordenadas_inicio>
+    <referencias_bibliografia>
+      <referencia>https://kalmasoul.com/en/tourism/beaches/suru-beach/</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Islas_Bijag%C3%B3s</referencia>
+      <referencia>https://www.elmundo.es/viajes/africa/2022/03/05/6219d30a21efa017678b4587.html</referencia>
+    </referencias_bibliografia>
+    <recomendacion>9</recomendacion>
+    <hitos>
+      <hito>
+        <nombre_hito>Ilha Caravela</nombre_hito>
+        <descripcion_hito>Ilha Caravela es una hermosa isla del archipiélago de Bijagós. Su paisaje incluye playas de arena blanca, exuberante vegetación y aguas cristalinas. Es un lugar perfecto para relajarse, nadar y disfrutar de la tranquilidad de la naturaleza.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-16.31866348912168</longitud_hito>
+          <latitud_hito>11.555948759608924</latitud_hito>
+          <altitud_hito>1</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">59</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>./multimedia/img/caravela1.jpg</fotografia>
+          <fotografia>./multimedia/img/caravela2.jpg</fotografia>
+        </galeria_fotografias>
+      </hito>
+
+      <hito>
+        <nombre_hito>Ilha Bubaque</nombre_hito>
+        <descripcion_hito>Ilha Bubaque es la isla más grande del archipiélago de Bijagós. Ofrece una gran diversidad de paisajes, desde playas vírgenes hasta manglares. También es un centro cultural y un lugar ideal para interactuar con la comunidad local.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-16.14522500351254</longitud_hito>
+          <latitud_hito>11.171897463481457</latitud_hito>
+          <altitud_hito>3</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">55</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>Fotografía 1.jpg</fotografia>
+        </galeria_fotografias>
+        <galeria_videos>
+          <video>./multimedia/video/bubaque1.mp4</video>
+        </galeria_videos>
+      </hito>
+
+      <hito>
+        <nombre_hito>Ilha das Galinhas</nombre_hito>
+        <descripcion_hito>Ilha das Galinhas es conocida por albergar la antigua prisión portuguesa y la casa del gobernador, ofreciendo una fascinante visión de la historia colonial de la región. Además, podrás disfrutar de sus hermosas playas y explorar los exuberantes bosques tropicales.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-15.814017175053944</longitud_hito>
+          <latitud_hito>11.302253926153416</latitud_hito>
+          <altitud_hito>11</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">47</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>./multimedia/img/galinhas1.jpg</fotografia>
+          <fotografia>./multimedia/img/galinhas2.jpg</fotografia>
+          <fotografia>./multimedia/img/galinhas3.jpg</fotografia>
+        </galeria_fotografias>
+      </hito>
+    </hitos>
+  </ruta>
+
+  <ruta>
+    <nombre>Ruta del archipiélago de Bijagós</nombre>
+    <tipo>Paisajística</tipo>
+    <transporte>Barco</transporte>
+    <fecha_inicio>12/01/2024</fecha_inicio>
+    <hora_inicio>9:00 AM</hora_inicio>
+    <duracion>10 horas</duracion>
+    <agencia>Aventuras Bijagós</agencia>
+    <descripcion>Descubre la belleza del archipiélago de Bijagós en Guinea-Bissau en esta emocionante ruta. Explora sus islas, playas y la vida silvestre única de la región.</descripcion>
+    <personas_adecuadas>Aventureros y amantes de la naturaleza.</personas_adecuadas>
+    <lugar_inicio>Praia de Suru</lugar_inicio>
+    <direccion_inicio>Ilha Caravela</direccion_inicio>
+    <coordenadas_inicio>
+      <longitud>-15.805860227540618</longitud>
+      <latitud>11.743755936878673</latitud>
+      <altitud unidades="metros">0.29</altitud>
+    </coordenadas_inicio>
+    <referencias_bibliografia>
+      <referencia>https://kalmasoul.com/en/tourism/beaches/suru-beach/</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Islas_Bijag%C3%B3s</referencia>
+      <referencia>https://www.elmundo.es/viajes/africa/2022/03/05/6219d30a21efa017678b4587.html</referencia>
+    </referencias_bibliografia>
+    <recomendacion>9</recomendacion>
+    <hitos>
+      <hito>
+        <nombre_hito>Ilha Caravela</nombre_hito>
+        <descripcion_hito>Ilha Caravela es una hermosa isla del archipiélago de Bijagós. Su paisaje incluye playas de arena blanca, exuberante vegetación y aguas cristalinas. Es un lugar perfecto para relajarse, nadar y disfrutar de la tranquilidad de la naturaleza.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-16.31866348912168</longitud_hito>
+          <latitud_hito>11.555948759608924</latitud_hito>
+          <altitud_hito>1</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">59</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>./multimedia/img/caravela1.jpg</fotografia>
+          <fotografia>./multimedia/img/caravela2.jpg</fotografia>
+        </galeria_fotografias>
+      </hito>
+
+      <hito>
+        <nombre_hito>Ilha Bubaque</nombre_hito>
+        <descripcion_hito>Ilha Bubaque es la isla más grande del archipiélago de Bijagós. Ofrece una gran diversidad de paisajes, desde playas vírgenes hasta manglares. También es un centro cultural y un lugar ideal para interactuar con la comunidad local.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-16.14522500351254</longitud_hito>
+          <latitud_hito>11.171897463481457</latitud_hito>
+          <altitud_hito>3</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">55</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>Fotografía 1.jpg</fotografia>
+        </galeria_fotografias>
+        <galeria_videos>
+          <video>./multimedia/video/bubaque1.mp4</video>
+        </galeria_videos>
+      </hito>
+
+      <hito>
+        <nombre_hito>Ilha das Galinhas</nombre_hito>
+        <descripcion_hito>Ilha das Galinhas es conocida por albergar la antigua prisión portuguesa y la casa del gobernador, ofreciendo una fascinante visión de la historia colonial de la región. Además, podrás disfrutar de sus hermosas playas y explorar los exuberantes bosques tropicales.</descripcion_hito>
+        <coordenadas>
+          <longitud_hito>-15.814017175053944</longitud_hito>
+          <latitud_hito>11.302253926153416</latitud_hito>
+          <altitud_hito>11</altitud_hito>
+        </coordenadas>
+        <distancia_desde_anterior unidades="metros">47</distancia_desde_anterior>
+        <galeria_fotografias>
+          <fotografia>./multimedia/img/galinhas1.jpg</fotografia>
+          <fotografia>./multimedia/img/galinhas2.jpg</fotografia>
+          <fotografia>./multimedia/img/galinhas3.jpg</fotografia>
+        </galeria_fotografias>
+      </hito>
+    </hitos>
+  </ruta>
+</rutas>
