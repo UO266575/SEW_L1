@@ -154,7 +154,7 @@
     <hora_inicio>12:00 AM</hora_inicio>
     <duracion>12 horas</duracion>
     <agencia>Dulombi-Boe Extremo</agencia>
-    <descripcion></descripcion>
+    <descripcion>Embárcate en una aventura épica de senderismo en el Dulombi-Boe National Park. Este parque nacional en Guinea-Bissau ofrece una experiencia única de naturaleza y vida silvestre. Prepárate para un día lleno de desafíos y maravillas naturales mientras recorres sus senderos.</descripcion>
     <personas_adecuadas>Deportistas</personas_adecuadas>
     <lugar_inicio>Dandulá</lugar_inicio>
     <direccion_inicio>Sur</direccion_inicio>
@@ -172,7 +172,7 @@
     <hitos>
       <hito>
         <nombre_hito>Lago de los hipopótamos</nombre_hito>
-        <descripcion_hito></descripcion_hito>
+        <descripcion_hito>Es una joya escondida en el parque. Observa hipopótamos en su hábitat natural y maravíllate con la belleza de la vida silvestre. Este es un lugar para sentirte en sintonía con la naturaleza y la majestuosidad de estos animales.</descripcion_hito>
         <coordenadas>
           <longitud_hito>-13.747718218838557</longitud_hito>
           <latitud_hito>11.933906258049248</latitud_hito>
@@ -187,7 +187,7 @@
 
       <hito>
         <nombre_hito>Pradera de los Leones</nombre_hito>
-        <descripcion_hito></descripcion_hito>
+        <descripcion_hito>Es un lugar de encuentro con la majestuosidad de los leones. Desde un lugar seguro, podrás observar a estos magníficos felinos en su entorno natural. Es una experiencia que te dejará sin aliento y te conectará con la vida salvaje del parque.</descripcion_hito>
         <coordenadas>
           <longitud_hito>-13.718410197668781</longitud_hito>
           <latitud_hito>11.932319057977141</latitud_hito>
@@ -201,7 +201,7 @@
 
       <hito>
         <nombre_hito>Bosque de monos</nombre_hito>
-        <descripcion_hito></descripcion_hito>
+        <descripcion_hito>En lugar fascinante donde podrás ver de cerca a una variedad de especies de monos. Observa su comportamiento y disfruta de la diversidad de estos primates en su entorno natural. Un lugar ideal para los amantes de la vida silvestre.</descripcion_hito>
         <coordenadas>
           <longitud_hito>-13.724418792906214</longitud_hito>
           <latitud_hito>11.945545955824123</latitud_hito>
