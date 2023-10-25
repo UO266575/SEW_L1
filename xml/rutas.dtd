@@ -39,5 +39,4 @@
 <!ELEMENT galeria_videos (video*)>
 <!ELEMENT video (#PCDATA)>
 
-<!ATTLIST altitud unidades CDATA #REQUIRED>
 <!ATTLIST distancia_desde_anterior unidades CDATA #REQUIRED>
