@@ -76,148 +76,142 @@
   </ruta>
 
   <ruta>
-    <nombre>Ruta del archipiélago de Bijagós</nombre>
-    <tipo>Paisajística</tipo>
-    <transporte>Barco</transporte>
-    <fecha_inicio>12/01/2024</fecha_inicio>
-    <hora_inicio>9:00 AM</hora_inicio>
-    <duracion>10 horas</duracion>
-    <agencia>Aventuras Bijagós</agencia>
-    <descripcion>Descubre la belleza del archipiélago de Bijagós en Guinea-Bissau en esta emocionante ruta. Explora sus islas, playas y la vida silvestre única de la región.</descripcion>
-    <personas_adecuadas>Aventureros y amantes de la naturaleza.</personas_adecuadas>
-    <lugar_inicio>Praia de Suru</lugar_inicio>
-    <direccion_inicio>Ilha Caravela</direccion_inicio>
+    <nombre>Ruta de iglesias de Bissau</nombre>
+    <tipo>Arquitectura y monumentos</tipo>
+    <transporte>Bicicleta</transporte>
+    <fecha_inicio>25/12/2023</fecha_inicio>
+    <hora_inicio>11:00 AM</hora_inicio>
+    <duracion>4 horas</duracion>
+    <agencia>Explora Guinea-Bissau</agencia>
+    <descripcion>Descubre las impresionantes iglesias de Bissau en esta ruta en bicicleta. Explora la arquitectura única y la historia cultural de la ciudad mientras pedaleas por sus calles.</descripcion>
+    <personas_adecuadas>Amantes de la historia y ciclistas entusiastas.</personas_adecuadas>
+    <lugar_inicio>Pontifício Instituto Missões Estrangeiras Bissau</lugar_inicio>
+    <direccion_inicio>Ponte da vida centros de formação profissional em Bissau</direccion_inicio>
     <coordenadas_inicio>
-      <longitud>-15.805860227540618</longitud>
-      <latitud>11.743755936878673</latitud>
+      <longitud>-15.579226637855905</longitud>
+      <latitud>11.912540972467166</latitud>
       <altitud unidades="metros">0.29</altitud>
     </coordenadas_inicio>
     <referencias_bibliografia>
-      <referencia>https://kalmasoul.com/en/tourism/beaches/suru-beach/</referencia>
-      <referencia>https://es.wikipedia.org/wiki/Islas_Bijag%C3%B3s</referencia>
-      <referencia>https://www.elmundo.es/viajes/africa/2022/03/05/6219d30a21efa017678b4587.html</referencia>
+      <referencia>https://pt.wikipedia.org/wiki/Pontif%C3%ADcio_Instituto_para_as_Miss%C3%B5es_Estrangeiras</referencia>
+      <referencia>https://www.adequatetravel.com/placeguide/Guinea-Bissau/pontif%C3%ADcio-instituto-miss%C3%B5es-estrangeiras-bissau-in-guineabissau-history-facts-services</referencia>
+      <referencia>https://setemargens.com/a-jovem-diocese-de-bissau/</referencia>
     </referencias_bibliografia>
-    <recomendacion>9</recomendacion>
+    <recomendacion>7</recomendacion>
     <hitos>
       <hito>
-        <nombre_hito>Ilha Caravela</nombre_hito>
-        <descripcion_hito>Ilha Caravela es una hermosa isla del archipiélago de Bijagós. Su paisaje incluye playas de arena blanca, exuberante vegetación y aguas cristalinas. Es un lugar perfecto para relajarse, nadar y disfrutar de la tranquilidad de la naturaleza.</descripcion_hito>
+        <nombre_hito>Base Missionaria Esperanca e Fé</nombre_hito>
+        <descripcion_hito>Esta misión religiosa desempeña un papel crucial en la comunidad local, brindando apoyo espiritual y asistencia a quienes la necesitan. Además de su significado religioso, la base también ofrece un ambiente tranquilo y sereno para la reflexión y el descanso.</descripcion_hito>
         <coordenadas>
-          <longitud_hito>-16.31866348912168</longitud_hito>
-          <latitud_hito>11.555948759608924</latitud_hito>
-          <altitud_hito>1</altitud_hito>
+          <longitud_hito>-15.586091099642827</longitud_hito>
+          <latitud_hito>11.909590407716987</latitud_hito>
+          <altitud_hito>10</altitud_hito>
         </coordenadas>
-        <distancia_desde_anterior unidades="metros">59</distancia_desde_anterior>
+        <distancia_desde_anterior unidades="metros">811</distancia_desde_anterior>
         <galeria_fotografias>
-          <fotografia>./multimedia/img/caravela1.jpg</fotografia>
-          <fotografia>./multimedia/img/caravela2.jpg</fotografia>
+          <fotografia>./multimedia/img/esperancaefe1.jpeg</fotografia>
+          <fotografia>./multimedia/img/esperancaefe2.jpeg</fotografia>
         </galeria_fotografias>
       </hito>
 
       <hito>
-        <nombre_hito>Ilha Bubaque</nombre_hito>
-        <descripcion_hito>Ilha Bubaque es la isla más grande del archipiélago de Bijagós. Ofrece una gran diversidad de paisajes, desde playas vírgenes hasta manglares. También es un centro cultural y un lugar ideal para interactuar con la comunidad local.</descripcion_hito>
+        <nombre_hito>Igreja de São Francisco de Assis de Antula</nombre_hito>
+        <descripcion_hito>Es un destacado ejemplo de arquitectura religiosa en la región. Esta iglesia histórica, dedicada a San Francisco de Asís, ofrece una impresionante exhibición de arte sacro y una atmósfera de serenidad que invita a la reflexión. Explora su fachada única y sus detalles artísticos que reflejan la rica herencia cultural de la zona.</descripcion_hito>
         <coordenadas>
-          <longitud_hito>-16.14522500351254</longitud_hito>
-          <latitud_hito>11.171897463481457</latitud_hito>
-          <altitud_hito>3</altitud_hito>
+          <longitud_hito>-15.586283541568902</longitud_hito>
+          <latitud_hito>11.89151473183635</latitud_hito>
+          <altitud_hito>17</altitud_hito>
         </coordenadas>
-        <distancia_desde_anterior unidades="metros">55</distancia_desde_anterior>
+        <distancia_desde_anterior unidades="metros">2000</distancia_desde_anterior>
         <galeria_fotografias>
-          <fotografia>Fotografía 1.jpg</fotografia>
+          <fotografia>./multimedia/img/antula1.jpeg</fotografia>
         </galeria_fotografias>
-        <galeria_videos>
-          <video>./multimedia/video/bubaque1.mp4</video>
-        </galeria_videos>
       </hito>
 
       <hito>
-        <nombre_hito>Ilha das Galinhas</nombre_hito>
-        <descripcion_hito>Ilha das Galinhas es conocida por albergar la antigua prisión portuguesa y la casa del gobernador, ofreciendo una fascinante visión de la historia colonial de la región. Además, podrás disfrutar de sus hermosas playas y explorar los exuberantes bosques tropicales.</descripcion_hito>
+        <nombre_hito>Igreja Evangélica de Antula Paal</nombre_hito>
+        <descripcion_hito>Importante iglesia evangélica en la región. Esta iglesia desempeña un papel fundamental en la comunidad local, brindando un lugar de culto y actividades religiosas para sus miembros. Su arquitectura simple y serena crea un ambiente propicio para la espiritualidad y la reflexión. Descubre la vida religiosa de la zona visitando esta iglesia.</descripcion_hito>
         <coordenadas>
-          <longitud_hito>-15.814017175053944</longitud_hito>
-          <latitud_hito>11.302253926153416</latitud_hito>
-          <altitud_hito>11</altitud_hito>
+          <longitud_hito>-15.58592935966017</longitud_hito>
+          <latitud_hito>11.886277457007857</latitud_hito>
+          <altitud_hito>24</altitud_hito>
         </coordenadas>
-        <distancia_desde_anterior unidades="metros">47</distancia_desde_anterior>
+        <distancia_desde_anterior unidades="metros">588</distancia_desde_anterior>
         <galeria_fotografias>
-          <fotografia>./multimedia/img/galinhas1.jpg</fotografia>
-          <fotografia>./multimedia/img/galinhas2.jpg</fotografia>
-          <fotografia>./multimedia/img/galinhas3.jpg</fotografia>
+          <fotografia>./multimedia/img/paal1.jpeg</fotografia>
+          <fotografia>./multimedia/img/paal2.jpg</fotografia>
+          <fotografia>./multimedia/img/paal3.jpeg</fotografia>
         </galeria_fotografias>
       </hito>
     </hitos>
   </ruta>
 
   <ruta>
-    <nombre>Ruta del archipiélago de Bijagós</nombre>
-    <tipo>Paisajística</tipo>
-    <transporte>Barco</transporte>
-    <fecha_inicio>12/01/2024</fecha_inicio>
-    <hora_inicio>9:00 AM</hora_inicio>
-    <duracion>10 horas</duracion>
-    <agencia>Aventuras Bijagós</agencia>
-    <descripcion>Descubre la belleza del archipiélago de Bijagós en Guinea-Bissau en esta emocionante ruta. Explora sus islas, playas y la vida silvestre única de la región.</descripcion>
-    <personas_adecuadas>Aventureros y amantes de la naturaleza.</personas_adecuadas>
-    <lugar_inicio>Praia de Suru</lugar_inicio>
-    <direccion_inicio>Ilha Caravela</direccion_inicio>
+    <nombre>Dulombi-Boe National Park</nombre>
+    <tipo>Senderismo</tipo>
+    <transporte>A pie</transporte>
+    <fecha_inicio>18/10/2023</fecha_inicio>
+    <hora_inicio>12:00 AM</hora_inicio>
+    <duracion>12 horas</duracion>
+    <agencia>Dulombi-Boe Extremo</agencia>
+    <descripcion></descripcion>
+    <personas_adecuadas>Deportistas</personas_adecuadas>
+    <lugar_inicio>Dandulá</lugar_inicio>
+    <direccion_inicio>Sur</direccion_inicio>
     <coordenadas_inicio>
-      <longitud>-15.805860227540618</longitud>
-      <latitud>11.743755936878673</latitud>
-      <altitud unidades="metros">0.29</altitud>
+      <longitud>-13.75022454962497</longitud>
+      <latitud>11.984830968067103</latitud>
+      <altitud unidades="metros">30</altitud>
     </coordenadas_inicio>
     <referencias_bibliografia>
-      <referencia>https://kalmasoul.com/en/tourism/beaches/suru-beach/</referencia>
-      <referencia>https://es.wikipedia.org/wiki/Islas_Bijag%C3%B3s</referencia>
-      <referencia>https://www.elmundo.es/viajes/africa/2022/03/05/6219d30a21efa017678b4587.html</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Anexo:Parques_nacionales_de_Guinea-Bis%C3%A1u</referencia>
+      <referencia>https://mapcarta.com/es/35136680</referencia>
+      <referencia>https://heroesofadventure.com/listing/dulombi-boe-national-park-2-guinea-bissau/</referencia>
     </referencias_bibliografia>
-    <recomendacion>9</recomendacion>
+    <recomendacion>10</recomendacion>
     <hitos>
       <hito>
-        <nombre_hito>Ilha Caravela</nombre_hito>
-        <descripcion_hito>Ilha Caravela es una hermosa isla del archipiélago de Bijagós. Su paisaje incluye playas de arena blanca, exuberante vegetación y aguas cristalinas. Es un lugar perfecto para relajarse, nadar y disfrutar de la tranquilidad de la naturaleza.</descripcion_hito>
+        <nombre_hito>Lago de los hipopótamos</nombre_hito>
+        <descripcion_hito></descripcion_hito>
         <coordenadas>
-          <longitud_hito>-16.31866348912168</longitud_hito>
-          <latitud_hito>11.555948759608924</latitud_hito>
-          <altitud_hito>1</altitud_hito>
+          <longitud_hito>-13.747718218838557</longitud_hito>
+          <latitud_hito>11.933906258049248</latitud_hito>
+          <altitud_hito>36</altitud_hito>
         </coordenadas>
-        <distancia_desde_anterior unidades="metros">59</distancia_desde_anterior>
+        <distancia_desde_anterior unidades="metros">5560</distancia_desde_anterior>
         <galeria_fotografias>
-          <fotografia>./multimedia/img/caravela1.jpg</fotografia>
-          <fotografia>./multimedia/img/caravela2.jpg</fotografia>
+          <fotografia>./multimedia/img/hipo1.jpg</fotografia>
+          <fotografia>./multimedia/img/hipo2.jpg</fotografia>
         </galeria_fotografias>
       </hito>
 
       <hito>
-        <nombre_hito>Ilha Bubaque</nombre_hito>
-        <descripcion_hito>Ilha Bubaque es la isla más grande del archipiélago de Bijagós. Ofrece una gran diversidad de paisajes, desde playas vírgenes hasta manglares. También es un centro cultural y un lugar ideal para interactuar con la comunidad local.</descripcion_hito>
+        <nombre_hito>Pradera de los Leones</nombre_hito>
+        <descripcion_hito></descripcion_hito>
         <coordenadas>
-          <longitud_hito>-16.14522500351254</longitud_hito>
-          <latitud_hito>11.171897463481457</latitud_hito>
-          <altitud_hito>3</altitud_hito>
+          <longitud_hito>-13.718410197668781</longitud_hito>
+          <latitud_hito>11.932319057977141</latitud_hito>
+          <altitud_hito>4</altitud_hito>
         </coordenadas>
-        <distancia_desde_anterior unidades="metros">55</distancia_desde_anterior>
+        <distancia_desde_anterior unidades="metros">3160</distancia_desde_anterior>
         <galeria_fotografias>
-          <fotografia>Fotografía 1.jpg</fotografia>
+          <fotografia>./multimedia/img/lion1.jpg</fotografia>
         </galeria_fotografias>
-        <galeria_videos>
-          <video>./multimedia/video/bubaque1.mp4</video>
-        </galeria_videos>
       </hito>
 
       <hito>
-        <nombre_hito>Ilha das Galinhas</nombre_hito>
-        <descripcion_hito>Ilha das Galinhas es conocida por albergar la antigua prisión portuguesa y la casa del gobernador, ofreciendo una fascinante visión de la historia colonial de la región. Además, podrás disfrutar de sus hermosas playas y explorar los exuberantes bosques tropicales.</descripcion_hito>
+        <nombre_hito>Bosque de monos</nombre_hito>
+        <descripcion_hito></descripcion_hito>
         <coordenadas>
-          <longitud_hito>-15.814017175053944</longitud_hito>
-          <latitud_hito>11.302253926153416</latitud_hito>
-          <altitud_hito>11</altitud_hito>
+          <longitud_hito>-13.724418792906214</longitud_hito>
+          <latitud_hito>11.945545955824123</latitud_hito>
+          <altitud_hito>24</altitud_hito>
         </coordenadas>
-        <distancia_desde_anterior unidades="metros">47</distancia_desde_anterior>
+        <distancia_desde_anterior unidades="metros">1620</distancia_desde_anterior>
         <galeria_fotografias>
-          <fotografia>./multimedia/img/galinhas1.jpg</fotografia>
-          <fotografia>./multimedia/img/galinhas2.jpg</fotografia>
-          <fotografia>./multimedia/img/galinhas3.jpg</fotografia>
+          <fotografia>./multimedia/img/monkey1.jpg</fotografia>
+          <fotografia>./multimedia/img/monkey2.jpeg</fotografia>
+          <fotografia>./multimedia/img/monkey3.jpg</fotografia>
         </galeria_fotografias>
       </hito>
     </hitos>
